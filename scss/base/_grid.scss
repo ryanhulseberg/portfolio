@@ -1,0 +1,15 @@
+@import "susy";
+
+$susy: (
+  columns: 12,
+  gutter-position: inside-static,
+  gutters: 20px/80px,
+  column-width: 80px
+);
+
+.container {
+  overflow: hidden;
+  padding: 0 30px;
+  max-width: 1160px;
+  margin: 0 auto;
+}
