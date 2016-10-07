@@ -2,13 +2,15 @@
 // Project Settings
 //**
 
-html {
-  position: relative;
-  min-height: 100%;
+html, body {
+  height: 100%;
 }
 
-body {
-  margin: 0 0 102px;
+.container {
+  overflow: hidden;
+  padding: 0 30px;
+  max-width: 1160px;
+  margin: 0 auto;
 }
 
 // Consistent settings
