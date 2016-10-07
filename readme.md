@@ -1,17 +1,5 @@
-# Gulp Starter
-A starter kit for your front-end builds.
+# Simple Personal Site
+This is the beginning of a personal site I intend to update soon (more than likely it will be another 6 months).
 
-- Compiles, autoprefixes and minimizes your Sass (can easily switch to SCSS or LESS)
-- Uglifys your JS
-- Compresses your Images
-- Generates a BrowserSync URL for you to access.
-
-### Getting Started
-Clone: `http://github.com/dope/gulp-starter.git`
-
-Once you have cloned the repo, navigate in to the directory via terminal and run.
-
-```bash
-npm install
-gulp
-```
+- Who I am and what I do.
+- Access to contact info and web presence.
